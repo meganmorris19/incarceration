@@ -1,0 +1,112 @@
+h1, h2, h3 {
+  font-family: "Georgia";
+}
+
+h1 {
+  font-style: italic;
+}
+
+p {
+  font-family: "Georgia";
+}
+
+.category {
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 700;
+  font-size: 12pt;
+}
+
+.byline-date {
+  font-family: "Georgia";
+  font-size: 9pt;
+}
+
+.byline-name {
+  font-family: "Georgia";
+  font-size: 9pt;
+  font-weight: bold;
+}
+
+table {
+  font-family:"Georgia";
+}
+
+.blackline {
+  border: 0.5px solid #000000;
+  margin-bottom: 10px;
+}
+
+.grayline-top {
+  border: 0.5px solid #e2e2e2;
+  margin-bottom: 10px;
+}
+
+.grayline-bottom {
+  border: 0.5px solid #e2e2e2;
+  margin-top: 10px;
+}
+
+.dotgray {
+  border: 0.5px dashed #e2e2e2;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.dotred {
+  border: 0.5px dotted #ffd1b3;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+div.container {
+  margin: 1em;
+}
+
+.fact {
+  font-style: italic;
+  text-indent: 25px;
+  line-height: 175%;
+}
+
+.credit {
+  text-align: right;
+  font-weight: bold;
+}
+
+.body {
+  text-indent: 25px;
+  line-height: 175%;
+}
+
+.no-indent-body {
+  line-height: 175%;
+}
+
+.factbox {
+  border: 2px dashed #f2f2f2;
+  padding: 10px;
+  font-family: 'Georgia';
+}
+
+.factbox-title {
+  font-weight: bold;
+  font-size: 13pt;
+  text-align: center;
+}
+
+.quote {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.factbox-intro {
+  font-style: italic;
+}
+
+#example {
+  font-family: 'Georgia';
+}
+
+TD {
+  font-family:'Georgia';
+}
